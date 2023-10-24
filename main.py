@@ -5,7 +5,7 @@ from utils import generate, api
 
 st.set_page_config(
   page_title="SmartReadme",
-  page_icon="logo.jpg",
+  page_icon="images/logo.jpg",
   layout="wide",
 
 )

@@ -20,12 +20,12 @@ element_slot = st.empty()
 
 openai.api_key = element_slot.text_input("Enter the Open AI API KEY")
 
+llm = OpenAI()
+chat_model = ChatOpenAI()
+
+element_slot.empty()
+
 if(openai.api_key):
-
-  llm = OpenAI()
-  chat_model = ChatOpenAI()
-
-  element_slot.empty()
 
   # Input the Required Values
   name = st.text_input("Enter The Project Name")

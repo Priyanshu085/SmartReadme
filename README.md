@@ -40,7 +40,3 @@ SmartReadme is deployed on Streamlit. You can access the live application at [ht
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize this README file to suit your project's specific requirements. If you have any questions or encounter any issues, please don't hesitate to reach out.
-
-Enjoy seamless README generation with **SmartReadme**!
